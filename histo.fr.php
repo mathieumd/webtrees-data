@@ -36,15 +36,15 @@ $histo[] = "1 EVEN\n2 TYPE Révolution\n2 DATE 5 MAY 1789\n2 NOTE Début de la R
 $histo[] = "1 EVEN\n2 TYPE Révolution\n2 DATE 9 NOV 1799\n2 NOTE Fin de la Révolution française";
 
 # Guerres civiles
-$histo[] = "1 EVEN\n2 TYPE Guerre civile\n2 DATE 17 JUL 1936\n2 NOTE Guerre civile d'Espagne (https://fr.wikipedia.org/wiki/Guerre_d%27Espagne)";
+$histo[] = "1 EVEN\n2 TYPE Guerre civile\n2 DATE 17 JUL 1936\n2 NOTE Guerre civile d'Espagne https://fr.wikipedia.org/wiki/Guerre_d%27Espagne";
 
 # Guerres
-$histo[] = "1 EVEN\n2 TYPE Guerre\n2 DATE 19 JUL 1870\n2 NOTE Début de la guerre franco-allemande (https://fr.wikipedia.org/wiki/Guerre_franco-allemande_de_1870)";
-$histo[] = "1 EVEN\n2 TYPE Guerre\n2 DATE 29 JAN 1871\n2 NOTE Fin de la guerre franco-allemande (https://fr.wikipedia.org/wiki/Guerre_franco-allemande_de_1870)";
-$histo[] = "1 EVEN\n2 TYPE Guerre\n2 DATE 1 AUG 1914\n2 NOTE Début de la Première Guerre mondiale (https://fr.wikipedia.org/wiki/Premi%C3%A8re_Guerre_mondiale)";
-$histo[] = "1 EVEN\n2 TYPE Guerre\n2 DATE 11 NOV 1918\n2 NOTE Armistice - Fin de la Première Guerre mondiale (https://fr.wikipedia.org/wiki/Premi%C3%A8re_Guerre_mondiale)";
-$histo[] = "1 EVEN\n2 TYPE Guerre\n2 DATE 3 SEP 1939\n2 NOTE Début de la Seconde Guerre mondiale (https://fr.wikipedia.org/wiki/Seconde_Guerre_mondiale)";
-$histo[] = "1 EVEN\n2 TYPE Guerre\n2 DATE 8 MAY 1945\n2 NOTE Fin de la Seconde Guerre mondiale (https://fr.wikipedia.org/wiki/Seconde_Guerre_mondiale)";
+$histo[] = "1 EVEN\n2 TYPE Guerre\n2 DATE 19 JUL 1870\n2 NOTE Début de la guerre franco-allemande https://fr.wikipedia.org/wiki/Guerre_franco-allemande_de_1870";
+$histo[] = "1 EVEN\n2 TYPE Guerre\n2 DATE 29 JAN 1871\n2 NOTE Fin de la guerre franco-allemande https://fr.wikipedia.org/wiki/Guerre_franco-allemande_de_1870";
+$histo[] = "1 EVEN\n2 TYPE Guerre\n2 DATE 1 AUG 1914\n2 NOTE Début de la Première Guerre mondiale https://fr.wikipedia.org/wiki/Premi%C3%A8re_Guerre_mondiale";
+$histo[] = "1 EVEN\n2 TYPE Guerre\n2 DATE 11 NOV 1918\n2 NOTE Armistice - Fin de la Première Guerre mondiale https://fr.wikipedia.org/wiki/Premi%C3%A8re_Guerre_mondiale";
+$histo[] = "1 EVEN\n2 TYPE Guerre\n2 DATE 3 SEP 1939\n2 NOTE Début de la Seconde Guerre mondiale https://fr.wikipedia.org/wiki/Seconde_Guerre_mondiale";
+$histo[] = "1 EVEN\n2 TYPE Guerre\n2 DATE 8 MAY 1945\n2 NOTE Fin de la Seconde Guerre mondiale https://fr.wikipedia.org/wiki/Seconde_Guerre_mondiale";
 
 # Présidents de France
 $histo[] = "1 EVEN\n2 TYPE Président de la République Française\n2 DATE 10 DEC 1848\n2 NOTE Louis-Napoléon Bonaparte (1er président)";
@@ -131,7 +131,7 @@ $histo[] = "1 EVEN\n2 TYPE Régime politique\n2 DATE 5 OCT 1958\n2 NOTE Ve Répu
 
 # Événements politiques
 $histo[] = "1 EVEN\n2 TYPE Parti Communiste Français\n2 DATE 25 DEC 1920 Congrès de Tours\n2 NOTE Naissance du Parti Communiste Français";
-$histo[] = "1 EVEN\n2 TYPE Front populaire\n2 DATE 03 MAY 1936\n2 NOTE Victoire du Peuple (https://fr.wikipedia.org/wiki/Front_populaire_%28France%29)";
+$histo[] = "1 EVEN\n2 TYPE Front populaire\n2 DATE 03 MAY 1936\n2 NOTE Victoire du Peuple https://fr.wikipedia.org/wiki/Front_populaire_%28France%29";
 
 # Religieux
 $histo[] = "1 EVEN\n2 TYPE Séparation des Églises et de l'État Française\n2 DATE 09 DEC 1905\n2 NOTE Loi du 9 décembre 1905 relative à la séparation des Églises et de l'État";
